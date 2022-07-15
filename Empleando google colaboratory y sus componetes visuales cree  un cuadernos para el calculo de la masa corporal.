@@ -14,23 +14,9 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "UymyY4-8LOh2",
-        "outputId": "bd3234fb-8005-446c-ba46-b8c9375b3e1b",
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        }
+        "id": "UymyY4-8LOh2"
       },
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "¿Cuál es tu peso en kg? 50\n",
-            "¿Cuál es tu estatura en metros?1.60\n",
-            "Tu índice de masa corporal es 19.53\n"
-          ]
-        }
-      ],
+      "outputs": [],
       "source": [
         "peso = input(\"¿Cuál es tu peso en kg? \")\n",
         "estatura = input(\"¿Cuál es tu estatura en metros?\")\n",
